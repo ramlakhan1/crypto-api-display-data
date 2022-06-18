@@ -1,0 +1,21 @@
+.coin-item{
+    background-color: burlywood !important;
+    display: flex;
+    justify-content: space-between;
+
+}
+.coin-item > p{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 0;
+    cursor: pointer;
+}
+.coin-item > p:hover{
+    color: red;
+    cursor: pointer;
+}
+.img-symbol{
+    height: px;
+    width: 30px;
+    font-weight: bold;
+}
